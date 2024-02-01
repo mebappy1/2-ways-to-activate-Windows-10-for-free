@@ -1,6 +1,6 @@
 # 2 ways to activate Windows 10 for free
 
-## 🚦 Method 1: Manual activation
+## 🔥 Method 1: Manual activation
 
 **Step 1.1:** Open Command Prompt as administrator.
 Click on the start button, search for “cmd” and _then run it with administrator rights._
@@ -63,7 +63,7 @@ The last step is to activate your Windows using the command “slmgr /ato”.
 **Now check the activation status again.**
 
 
-## 🚥 Method 2: Using a batch file
+## ⚡ Method 2: Using a batch file
 _This one is not recommended anymore due to **the new update of Microsoft.**_
 
 **Step 2.1:** Copy the code below into a new text document.
